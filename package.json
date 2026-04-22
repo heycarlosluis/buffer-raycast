@@ -14,6 +14,7 @@
     {
       "name": "scheduled-posts",
       "title": "Scheduled Posts",
+      "icon": "extension-icon.png",
       "subtitle": "Buffer",
       "description": "View and manage your scheduled Buffer posts",
       "mode": "view"
@@ -21,6 +22,7 @@
     {
       "name": "sent-posts",
       "title": "Sent Posts",
+      "icon": "extension-icon.png",
       "subtitle": "Buffer",
       "description": "View sent posts and engagement metrics",
       "mode": "view"
@@ -28,6 +30,7 @@
     {
       "name": "create-post",
       "title": "Create Post",
+      "icon": "extension-icon.png",
       "subtitle": "Buffer",
       "description": "Create a new post and add it to your Buffer queue",
       "mode": "view"
@@ -35,6 +38,7 @@
     {
       "name": "channels",
       "title": "Channels",
+      "icon": "extension-icon.png",
       "subtitle": "Buffer",
       "description": "View your connected Buffer channels",
       "mode": "view"
@@ -42,6 +46,7 @@
     {
       "name": "draft-posts",
       "title": "Draft Posts",
+      "icon": "extension-icon.png",
       "subtitle": "Buffer",
       "description": "View and manage Buffer drafts and pending approvals",
       "mode": "view"
@@ -49,6 +54,7 @@
     {
       "name": "create-idea",
       "title": "Create Idea",
+      "icon": "extension-icon.png",
       "subtitle": "Buffer",
       "description": "Create a new idea in Buffer",
       "mode": "view"
@@ -56,6 +62,7 @@
     {
       "name": "account-overview",
       "title": "Account Overview",
+      "icon": "extension-icon.png",
       "subtitle": "Buffer",
       "description": "Inspect your Buffer account, organizations, and connected apps",
       "mode": "view"
@@ -63,6 +70,7 @@
     {
       "name": "organizations",
       "title": "Organizations",
+      "icon": "extension-icon.png",
       "subtitle": "Buffer",
       "description": "View your Buffer organizations and limits",
       "mode": "view"
