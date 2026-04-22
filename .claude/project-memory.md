@@ -138,7 +138,6 @@ Keep these rules aligned between `package.json`, tools, and future docs.
 
 ## Known debt and future opportunities
 
-- Add contributor-facing README.
 - Add tests for tool channel resolution and API helper validation.
 - Unify repeated grouped-post UI logic across scheduled, sent, and draft views.
 - Add explicit organization selection to more flows.

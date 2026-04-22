@@ -39,7 +39,6 @@ This repository is a Raycast extension for Buffer. It exposes both interactive R
 ## Known limitations
 
 - No automated tests are present in the repo.
-- No dedicated README exists for contributors or maintainers.
 - Pagination is supported by the API layer but not fully surfaced in the UI.
 - Organization selection is not consistently user-driven; many flows assume the first organization.
 - List views for scheduled, sent, and draft posts share patterns that could later be abstracted.

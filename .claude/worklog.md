@@ -9,6 +9,11 @@
 - Added `.claude/project-memory.md` for architecture, patterns, limitations, and maintenance checklists.
 - Added `.claude/decisions.md` for long-lived technical decisions.
 
+## 2026-04-22 — README added
+
+- Added `README.md` with product overview, setup, commands, AI tools, development flow, publish step, and current limitations.
+- Updated `CLAUDE.md` and `.claude/project-memory.md` to reflect that the repository now has maintainer-facing documentation.
+
 ## Ongoing update template
 
 For future sessions, append entries using this structure:
