@@ -1,6 +1,7 @@
 node_modules/
 .claude/
 .agents/
+CLAUDE.md
 dist/
 .DS_Store
 *.log
